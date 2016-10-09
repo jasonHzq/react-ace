@@ -1,6 +1,6 @@
 {
-  "name": "react-ace",
-  "version": "3.6.1",
+  "name": "ch-react-ace",
+  "version": "0.1.0",
   "description": "A react component for Ace Editor",
   "main": "lib/ace.js",
   "scripts": {
@@ -51,7 +51,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "^0.8.0",
+    "ch-brace": "^0.1.0",
     "lodash.isequal": "^4.1.1"
   },
   "peerDependencies": {

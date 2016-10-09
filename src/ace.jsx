@@ -1,4 +1,4 @@
-import ace from 'brace';
+import ace from 'ch-brace';
 import React, { Component, PropTypes } from 'react';
 import isEqual from 'lodash.isequal';
 
